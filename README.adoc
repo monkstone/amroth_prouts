@@ -1,3 +1,8 @@
 # Amroth Prouts
 
-Bringing genealogy into the 21st century, by creating a family story in ebook format. Ideas about book creation taken from https://github.com/progit/progit2[progit2]
+Bringing genealogy into the 21st century, by creating a family story in ebook format. Ideas about book creation taken from https://github.com/progit/progit2[progit2].
+
+Tools used:
+1. https://gramps-project.org/introduction-WP/[gramps]
+2. https://atom.io/[atom editor]
+3. https://www.familysearch.org/[FamilySearch.org]
