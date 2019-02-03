@@ -1,0 +1,19 @@
+=== Prout Family and Religion
+
+**Example Text:** Religion has played it part in Prout family tree, the earliest recorded ancestors were Church of England (St. Issells). Thereafter chapel played a big part, except for schism for William Thomas Prout (1894-1971), who returned to Church of England, and the conversion of some of the American cousins to the church of the Latter Day Saints. It was this conversion of the American clan that kick started the genealogical research, and makes FamilySearch.org useful to this day.
+
+==== Including GPS information
+
+For later generations (of Prout) I am sure inclusion of gps data will be invaluable eg Sardis Chapel (51.729144, -4.695828), _early days yet I would like to provide clickable links_ or include google web pages as in http://users.skynet.be/watermael/crapauds_2017.html#_le_lieu[this example].
+
+==== St Issells Church
+
+**More example text that won't get in book:** One slightly confounding thing in family research is the distinction or lack of it between building and parish (gramps usefully allows us to make that distinction), but like with many of these things it is question of discipline. Poor old St Issells church is currently covered in cladding, and there aren't enough souls daft enough, like my grandfather paying 10% of their salary to the church any more. It was because of grandfather Prout I had to attend church, my parents were both atheist despite having fairly religious parents themselves.
+
+==== Molleston English Baptist Chapel
+
+Old school place Reference from https://coflein.gov.uk/en/site/10947/details/molleston-english-baptist-chapel-molleston-templeton[coflein]
+
+Grid Reference: SN09411186
+
+image::images/molleston.jpeg[molleston.jpg]

@@ -1,0 +1,12 @@
+[[ch05_religion]]
+== Amroth Prouts
+
+Some preamble
+
+include::book/05_religion/sections/basics.adoc[]
+
+
+
+=== Summary
+
+Mock summary
