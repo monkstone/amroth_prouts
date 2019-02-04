@@ -1,4 +1,4 @@
-# Amroth Prouts
+= Amroth Prouts
 
 Bringing genealogy into the 21st century, by creating a family story in ebook format. Ideas about book creation taken from https://github.com/progit/progit2[progit2].
 
@@ -11,3 +11,25 @@ Tools used:
 3. https://www.familysearch.org/[FamilySearch.org]
 
 4. https://asciidoctor.org/[asciidoctor]
+
+=== How To Generate the Book
+
+You can generate the e-book files manually with Asciidoctor. If you run the following you may actually get HTML, Epub, Mobi and PDF output files:
+
+[source, bash]
+
+----
+$ bundle install
+$ bundle exec rake book:build
+Converting to HTML...
+ -- HTML output at progit.html
+Converting to EPub...
+ -- Epub output at progit.epub
+Converting to Mobi (kf8)...
+ -- Mobi output at progit.mobi
+Converting to PDF...
+ -- PDF output at progit.pdf
+
+
+
+
