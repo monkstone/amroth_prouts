@@ -9,11 +9,20 @@ For later generations (of Prout) I am sure inclusion of gps data will be invalua
 ==== St Issells Church
 
 **More example text that won't get in book:** One slightly confounding thing in family research is the distinction or lack of it between building and parish (gramps usefully allows us to make that distinction), but like with many of these things it is question of discipline. Poor old St Issells church is currently covered in cladding, and there aren't enough souls daft enough, like my grandfather paying 10% of their salary to the church any more. It was because of grandfather Prout I had to attend church, my parents were both atheist despite having fairly religious parents themselves.
+https://coflein.gov.uk/en/site/418894/details/st-issells-church-churchton[coflein St Issels]
 
 ==== Molleston English Baptist Chapel
 
-Old school place Reference from https://coflein.gov.uk/en/site/10947/details/molleston-english-baptist-chapel-molleston-templeton[coflein]
+Old school place Reference from https://coflein.gov.uk/en/site/10947/details/molleston-english-baptist-chapel-molleston-templeton[coflein molleston]
 
 Grid Reference: SN09411186
 
 image::images/molleston.jpeg[molleston.jpg]
+
+==== Sardis Congregational Chapel
+
+https://www.coflein.gov.uk/en/site/11094/details/sardis-congregational-chapel-sardis-saundersfoot[coflein sardis chapel]
+
+==== Railway
+
+https://en.wikipedia.org/wiki/Saundersfoot_Railway[wikipedia]
