@@ -2,6 +2,8 @@
 
 Bringing genealogy into the 21st century, by creating a family story in ebook format. Ideas about book creation taken from https://github.com/progit/progit2[progit2].
 
+Places should be locatable using decimal degrees (as used in most gps systems) instead of Latitude and Longitude.
+
 Tools used:
 
 1. https://gramps-project.org/introduction-WP/[gramps]
