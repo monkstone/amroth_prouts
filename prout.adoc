@@ -7,7 +7,7 @@ Martin Prout; Trevor Prout
 :toc:
 :toclevels: 2
 :pagenums:
-:front-cover-image: image:book/cover.png[width=1200,height=1600]
+:front-cover-image: image:book/cover.jpg[width=1200,height=1600]
 :icons: font
 
 
